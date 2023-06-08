@@ -1,3 +1,4 @@
+//Bismillahir Rahmanir Rahim
 #include<stdio.h>
 int main()
 {

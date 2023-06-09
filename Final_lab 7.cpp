@@ -1,5 +1,4 @@
 //Bismillahir Rahmanir Rahim
-
 #include <stdio.h>
 int main() {
     int matrix1[100][100], matrix2[100][100], sum[100][100];
